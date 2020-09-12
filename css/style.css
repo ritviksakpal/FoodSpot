@@ -60,7 +60,7 @@ li {
 #top {
     height: fit-content;
     padding: 0 0;
-    background-image: url(/img/banner.jpg);
+    background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/banner.jpg);
     background-clip: border-box;
     background-repeat: no-repeat;
     background-size: cover;
@@ -240,7 +240,7 @@ a {
 }
 
 #food1 {
-    background-image: url(/img/pexels-ash-376464.jpg);
+    background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/pexels-ash-376464.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
@@ -248,7 +248,7 @@ a {
 }
 
 #food2 {
-    background-image: url(/img/pexels-ella-olsson-3026805.jpg);
+    background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/pexels-ella-olsson-3026805.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
@@ -256,7 +256,7 @@ a {
 }
 
 #food3 {
-    background-image: url(/img/pexels-pixabay-461198.jpg);
+    background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/pexels-pixabay-461198.jpg;
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
@@ -264,7 +264,7 @@ a {
 }
 
 #food4 {
-    background-image: url(/img/pexels-polina-tankilevitch-3735153.jpg);
+    background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/pexels-polina-tankilevitch-3735153.jpg;
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
@@ -394,7 +394,7 @@ a {
 
 #asec1 {
     flex: 1;
-    /* background-image: url(/img/abt.jpg);
+    /* background-image: url(https://raw.githubusercontent.com/ritviksakpal/FoodSpot/master/img/abt.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
